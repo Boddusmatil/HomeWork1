@@ -1,0 +1,1 @@
+The key differences between innerText and textContent are outlined very well in Kelly Nortons blogpost
